@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=`geek-larry`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-larry&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-larry&show_icons=true&theme=dracula)
