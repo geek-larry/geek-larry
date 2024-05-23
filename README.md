@@ -1,6 +1,6 @@
 ***Hello everyone. I am Larry, a guy who loves problems, and sharing knowledge and experiences. I am a software engineer and developer focusing on Java and Golang, so if there is anything I can help with, feel free to explore my repository and if you prefer, contact me.***
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=golang&logoColor=white)![](https://img.shields.io/badge/VSCode-8A2BE2?style=for-the-badge&logo=vscode&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=white)![](https://img.shields.io/badge/VSCode-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - 🔭 ***I’m currently working on Golang.***
 - 🌱 ***I’m currently learning Everything I like.***
