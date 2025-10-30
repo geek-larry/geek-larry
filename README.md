@@ -5,7 +5,7 @@
 - 🔭 ***I’m currently working on Golang***
 - 🌱 ***I’m currently learning Everything I like***
 - 💬 ***Ask me about anything related to Java/Golang/VSCode***
-- 📫 ***How to reach me: songyx0303@gmail.com***
+- 📫 ***How to reach me: songyx0303@126.com***
 - 😄 ***Read more about my BLOG: [here](https://www.zhihu.com/people/geek-larry)***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-larry&layout=compact&theme=dracula)
