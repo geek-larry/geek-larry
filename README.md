@@ -7,5 +7,9 @@
 - 💬 ***Ask me about anything related to Java/Python/Golang/VSCode***
 - 📫 ***How to reach me: songyx0303@126.com***
 - 😄 ***Read more about my BLOG: [here](https://www.zhihu.com/people/geek-larry)***
+- 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 [![Larry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geek-larry&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
