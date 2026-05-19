@@ -8,6 +8,4 @@
 - 📫 ***How to reach me: songyx0303@126.com***
 - 😄 ***Read more about my BLOG: [here](https://www.zhihu.com/people/geek-larry)***
 
-![Top Languages](./profile/top-langs.svg)
-
 [![Larry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geek-larry&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
