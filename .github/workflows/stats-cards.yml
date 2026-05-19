@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * 0"  # 每周日UTC 0点自动更新（国内8点）
   workflow_dispatch:     # 允许手动触发更新
   push:
-    branches: [main]     # 推送到main时也更新
+    branches: [master]     # 推送到main时也更新
 
 permissions:
   contents: write        # 允许Action提交SVG到仓库
